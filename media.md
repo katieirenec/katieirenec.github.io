@@ -11,7 +11,7 @@ title: Media
 
 [From Fields to Code, College Program Helps Farmworkers Make the Leap](http://ww2.kqed.org/news/2014/03/20/from-fields-to-computer-science/). Ana Tintocalis and Jeremy Raff, KQED (NPR station). March 21, 2014.
 
-##Articles describing our Innovation Award Grant:
+##Articles describing our Innovation Award grant:
 
 [California State University Monterey Bay is double winner in innovation](http://www.cafwd.org/reporting/entry/california-state-university-monterey-bay-is-double-winner-in-innovation). Ed Coghlan, CAFWD. March 30, 2015.
 
