@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            CS, Ed, & Fog
+tagline:          "Computer Science is awesome, and more students deserve a high-quality CS education."
+description:      "Bringing computer science to the fog, the farm, and the shores."
+url:              ''
+baseurl:          /
+
+author:
+  name:           'Katie Cunningham'
+  url:            https://twitter.com/katieirenec
+
+paginate:         5
+
+# Custom vars
+version:          0.1.0
+
+github:
+  repo:           https://github.com/katieirenec/katieirenec.github.io
