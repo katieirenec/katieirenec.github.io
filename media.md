@@ -3,7 +3,8 @@ layout: page
 title: Media
 ---
 
-##Articles profiling the CSin3 program (formerly CSIT-In-3):  
+##Articles profiling the CSin3 program: 
+*(formerly CSIT-In-3)*  
 
 [Students on Computer Science Fast Track](http://edsource.org/2014/fast-track-to-a-career-in-computer-science/66294#.U_zTJoUoyu6). Michelle Maitre, EdSource. Aug 14, 2014.
 
