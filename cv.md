@@ -42,9 +42,8 @@ National Merit Scholar, Spring 2008
 ###PROFESSIONAL EXPERIENCE:  
 *Computer Science Education Coordinator, California State University Monterey Bay, July 2013-Present* 
  
- * Support students in computer science skill development and technical career preparation, with special focus on students who are part of a cohort-based program.  
- * Train 30 computer science tutors weekly in active learning techniques in computer science, and develop materials for use in tutor-guided small-group learning.  
- * Critically analyze computer science curriculum and develop supplemental activities to ensure students receive an education on par with higher-ranked institutions. 
+ * Evaluate, mentor, and support community college and university students seeking an accelerated Bachelor's degree in Computer Science (CSin3). 
+ * Supervise, train, and develop curriculum for 22 computer science tutors who lead weekly collaborative problem-solving workshops targeting conceptual understanding and common misconceptions.
 
 <a id="research"></a>  
 ###RESEARCH EXPERIENCE:   
@@ -63,17 +62,17 @@ National Merit Scholar, Spring 2008
 - Developed a C program that locates genes, regulatory elements, and CpG islands that overlap genetic regions of interest.  
 - Consulted in the development of an integer linear programming algorithm examining the relation of methylation levels across the genome to asthma prevalence.  
 
-*Lombardi Graph Drawing, University of Arizona Computer Science, Spring-Fall 2011*  
+*[Lombardi Graph Drawing](http://lombardi.cs.arizona.edu/), University of Arizona Computer Science, Spring-Fall 2011*  
 
- * Developed a force-directed algorithm for visualizing graphs with perfect angular resolution and circular arcs. Implemented our algorithm and another proposed algorithm in Python. (lombardi.cs.arizona.edu)  
+ * Developed a force-directed algorithm for visualizing graphs with perfect angular resolution and circular arcs. Implemented our algorithm and another proposed algorithm in Python.   
 
 *Utility of "Flats" Calibration in Extrasolar Planet Detection, University of Arizona Astronomy Club, Fall 2011*  
 
  * Performed statistical analysis of the effects of telescope calibration on extrasolar planet detection, using R. Determined that “flat” calibrations had no significant effect on signal-to-noise ratio, saving the team hours in telescope calibration time.
 
-*LoCuS Labs for Computer Science, University of Arizona Computer Science, Summer 2010*  
+*[LoCuS Labs for Computer Science](http://www.cs.arizona.edu/projects/focal/ergalics/fieldguide/), University of Arizona Computer Science, Summer 2010*  
 
- * Conceptualized and developed extendable virtual notebook system that can be customized with quizzes, images, and interactive activities, with feedback from K12 teachers. Programming was done in Java. (cs.arizona.edu/projects/focal/ergalics/fieldguide/)
+ * Conceptualized and developed extendable virtual notebook system that can be customized with quizzes, images, and interactive activities, with feedback from K12 teachers. Programming was done in Java.
 
 <a id="teaching"></a>
 ###TEACHING EXPERIENCE:  
@@ -87,7 +86,7 @@ National Merit Scholar, Spring 2008
  * Taught intensive 2-week boot camp on data structures basics, including binary search, Big-O, linked lists, stacks, queues, and recursion.  
  * Utilized active lecture style featuring Peer Instruction. All assignments incorporated unit testing.
 
-*Teaching Assistant, 300-level quantitative biology course, University of Arizona, Spring and Fall 2012*  
+*Teaching Assistant, [300-level quantitative biology course](http://gutengroup.mcb.arizona.edu/MCB315.html), University of Arizona, Spring and Fall 2012*  
 
  * Held weekly office hours, often with an emphasis on MATLAB help.  
  * Developed answer sets and graded homework assignments.  
