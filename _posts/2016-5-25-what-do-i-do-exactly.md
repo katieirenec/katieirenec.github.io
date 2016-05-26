@@ -43,7 +43,7 @@ Things I use to make this happen:
 
 ### Train computer science TAs and Peer-Led Team Learning Leaders at CSU Monterey Bay and Hartnell College
 
-Example: Guide TA program coordinators to develop a good activity about tutoring skills for that week’s training. Make sure the weekly problem set for TA-led review sessions is up to standards by adding a new question about arrays. Check on the lab where TAs hold their office hours to make sure it’s a welcoming environment.
+*Example: Guide TA program coordinators to develop a good activity about tutoring skills for that week’s training. Make sure the weekly problem set for TA-led review sessions is up to standards by adding a new question about arrays. Check on the lab where TAs hold their office hours to make sure it’s a welcoming environment.*
 
 Things I use to make this happen:
 
