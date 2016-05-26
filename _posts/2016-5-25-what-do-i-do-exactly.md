@@ -3,7 +3,7 @@ layout: post
 title: What do I do at work? 
 ---
 
-######*I am heading to [graduate school](http://www.ic.gatech.edu/) this fall, and so the [CSin3](https://twitter.com/csinthree) team at CSUMB and Hartnell are searching for a new Computer Science Education Coordinator. This post is meant to clarify the work in the position and possibly encourage __you__ to [apply for the position](https://csumb.peopleadmin.com/postings/1694)!*
+*I am heading to [graduate school](http://www.ic.gatech.edu/) this fall, and so the [CSin3](https://twitter.com/csinthree) team at CSUMB and Hartnell are searching for a new Computer Science Education Coordinator. This post is meant to clarify the work in the position and possibly encourage __you__ to [apply for the position](https://csumb.peopleadmin.com/postings/1694)!*
 
 It took me a while to figure out how to succinctly describe my job. Here’s my best shot:
 
@@ -63,7 +63,7 @@ Things I use to make this happen:
 
   - #### Occasional grant-writing, trips to Silicon Valley, and more paperwork
 
-######*I don't think that the person who goes into my role necessarily has to do everything I've done. I kept coming up with new things for myself to do, which maybe wasn't the best work-life-balance-wise :). The most important thing is that the person in this role is __motivated to see students succeed__, and believes in the potential of each and every student.*
+*I don't think that the person who goes into my role necessarily has to do everything I've done. I kept coming up with new things for myself to do, which maybe wasn't the best work-life-balance-wise :). The most important thing is that the person in this role is __motivated to see students succeed__, and believes in the potential of each and every student.*
 
 I’ve learned so much over the last few years, gotten better at all of the things I mentioned above, and formed so many amazing relationships. I’m really grateful for the opportunity to do such impactful work and change lives.
 
