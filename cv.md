@@ -16,7 +16,13 @@ title: CV
 10. [Professional Memberships](#memberships)
 
 <a id="education"></a>
-###EDUCATION:  
+### EDUCATION:  
+
+Ph.D.   Georgia Institute of Technology  (Started Aug 2015)
+*Major:* Human-Centered Computing
+*Emphasis:* Learning Science and Technology 
+*Cumulative GPA:* 4.000
+
 B.S.	University of Arizona, Honors College  (May 2013)  
 *Majors:* Computer Science; Molecular and Cellular Biology
 *Minor:* Mathematics  
@@ -25,7 +31,7 @@ B.S.	University of Arizona, Honors College  (May 2013)
 *NSF REU*	University of Pittsburgh Department of Computational and Systems Biology, Summer 2011  
 
 <a id="honors"></a>
-###HONORS:   
+### HONORS:   
 **University of Arizona:**  
 Pillars of Excellence Awardee, Spring 2013  
 College of Science Outstanding Senior, Fall 2012  
@@ -39,14 +45,14 @@ Phi Kappa Phi, Spring 2012
 National Merit Scholar, Spring 2008  
 
 <a id="professional"></a>
-###PROFESSIONAL EXPERIENCE:  
+### PROFESSIONAL EXPERIENCE:  
 *Computer Science Education Coordinator, California State University Monterey Bay, July 2013-Present* 
  
  * Evaluate, mentor, and support community college and university students seeking an accelerated Bachelor's degree in Computer Science (CSin3). 
  * Supervise, train, and develop curriculum for 22 computer science tutors who lead weekly collaborative problem-solving workshops targeting conceptual understanding and common misconceptions.
 
 <a id="research"></a>  
-###RESEARCH EXPERIENCE:   
+### RESEARCH EXPERIENCE:   
 *Faster Optimization for ∂a∂i, University of Arizona Molecular and Cellular Biology, Summer 2012-Spring 2013*  
 
 - Developed strategies to improve nonlinear optimization routines for the open source demographic inference software package ∂a∂i, with a focus on tweaking SciPy’s BFGS algorithm for ∂a∂i’s objective function.  
@@ -75,7 +81,7 @@ National Merit Scholar, Spring 2008
  * Conceptualized and developed extendable virtual notebook system that can be customized with quizzes, images, and interactive activities, with feedback from K12 teachers. Programming was done in Java.
 
 <a id="teaching"></a>
-###TEACHING EXPERIENCE:  
+### TEACHING EXPERIENCE:  
 *Instructor, Cohort Enrichment - Year 1, CSin3 program, Hartnell College, Fall 2013-Present*  
 
  * Lead three-hour weekly session for freshmen that covers programming fundamentals, study skills, teambuilding, culture building, career exploration, and resume creation.  
@@ -97,34 +103,31 @@ National Merit Scholar, Spring 2008
  * Supervised 11 WiCS members to advertise, plan, and teach basic programming in Python, Java, and C over multiple weekend workshops. 
 
 <a id="grants"></a>
-###GRANTS:  
+### GRANTS:  
 *Innovation Award, California Department of Finance, $5 millon for continued work and expansion of the CSin3 program*
 
 <a id="languages"></a>
-###PROGRAMMING LANGUAGES:   
+### PROGRAMMING LANGUAGES:   
 Python with SciPy/NumPy/Matplotlib, MATLAB, Java, C, C++, MIPS
-###DEVELOPMENT TOOLS:  
+### DEVELOPMENT TOOLS:  
 git, bash, vagrant
 
 <a id="publications"></a> 
-###PUBLICATIONS:  
-1.	K. Cunningham, A. Seetharam, S. Narayanan, B. Su. “Establishing an Effective Teaching Assistant Program for Computer Science Undergraduate Education.” 14th Annual Hawaii International Conference on Education, 2016. (In press)
-2.	G.T. Huang, K. Cunningham, P.V. Benos, C. Chennubhotla. “Spectral clustering strategies for heterogeneous disease expression data.” Pacific Symposium on Biocomputing, 2013.
-3.	J. Turner, B. Smart, K. Hardegree-Ullman, T. Carleton, A. Walker-LaFollette, B. Crawford, C. Smith, A. McGraw, L. Small, M. Rocchetto, K. Cunningham, et al. “Near-UV and optical observations of the transiting exoplanet TrES-3b.” Monthly Notices of the Royal Astronomical Society. 2012 September.
-4.	R. Chernobelskiy, K. Cunningham, M. Goodrich, S. G. Kobourov, L. Trott, “Force-Directed Lombardi-Style Graph Drawing.” 19th Symposium on Graph Drawing (GD), p. 320-331, 2011.
-
-###PAPERS IN PROGRESS:  
-1.	M. Lara, K. Cunningham, B. Su. “Implementing Peer-Led Team Learning in a Community College Computer Science Course: Lessons Learned.” (In progress)
-2.	S. Narayanan, B. Su, K. Cunningham. “CSin3: A Three-Year, Cohort-Based Computer Science Degree Program.” (In progress)
+### PUBLICATIONS:  
+1.	M. Lara, K. Cunningham, B. Su. “Implementing Peer-Led Team Learning in a Community College Computer Science Course: Lessons Learned.” 15th Annual Hawaii International Conference on Education, 2017.
+2.	K. Cunningham, A. Seetharam, S. Narayanan, B. Su. “Establishing an Effective Teaching Assistant Program for Computer Science Undergraduate Education.” 14th Annual Hawaii International Conference on Education, 2016. 
+3.	G.T. Huang, K. Cunningham, P.V. Benos, C. Chennubhotla. “Spectral clustering strategies for heterogeneous disease expression data.” Pacific Symposium on Biocomputing, 2013.
+4.	J. Turner, B. Smart, K. Hardegree-Ullman, T. Carleton, A. Walker-LaFollette, B. Crawford, C. Smith, A. McGraw, L. Small, M. Rocchetto, K. Cunningham, et al. “Near-UV and optical observations of the transiting exoplanet TrES-3b.” Monthly Notices of the Royal Astronomical Society. 2012 September.
+5.	R. Chernobelskiy, K. Cunningham, M. Goodrich, S. G. Kobourov, L. Trott, “Force-Directed Lombardi-Style Graph Drawing.” 19th Symposium on Graph Drawing (GD), p. 320-331, 2011.
 
 <a id="presentations"></a> 
-###PRESENTATIONS:  
+### PRESENTATIONS:  
   1. K. Cunningham. “Peer-Led Team Learning Supports Computer Science Persistence at Community College.” Poster session presented at: International Computing Education Research Conference, 2015.
   2. K. Cunningham, D. Fossati. “Exploring Discovery and Refinement of KCs with Introductory Programming Assignment Data.” Poster summarized research project completed at: LearnLab Summer School, 2015 at Carnegie Mellon University.
   3. R. Chernobelskiy, K. Cunningham, M. Goodrich, S. G. Kobourov, L. Trott, “Force-Directed Lombardi-Style Graph Drawing.” Conference publication presented at 19th Symposium on Graph Drawing (GD), p. 320-331, 2011.
 
 <a id="memberships"></a> 
-###PROFESSIONAL MEMBERSHIPS:  
+### PROFESSIONAL MEMBERSHIPS:  
  * ACM – Member since July 2013
  * SIGCSE – Member since February 2015
  * CSTA – Member since July 2013

@@ -11,12 +11,12 @@ title: Teaching materials
 5. [My Favorite Resources](#favorite)
 6. [The teaching advice I give myself](#advice)
 
-I currently manage the following support activities. On this page, I'll link resources that can help others replicate these programs.
+As CS Education Coordinator, I managed the following support activities. On this page, I'll link resources that can help others replicate these programs.
 
 <a id="enrichment"></a>
-### Cohort Enrichment, Year 1
+## Cohort Enrichment, Year 1
 
-I hold three-hour weekly sessions for students in the first year of the CSin3 accelerated degree program. These sessions are focused on skills students need to succeed in college generally and in computer science specifically. Topics covered are:
+I held three-hour weekly sessions for students in the first year of the CSin3 accelerated degree program. These sessions are focused on skills students need to succeed in college generally and in computer science specifically. Topics covered are:
 
 * Review of fundamental programming skills, using Peer Instruction 
 * Academic success skills (time management, essay organization, preparing for exams, etc)
@@ -29,21 +29,21 @@ I hold three-hour weekly sessions for students in the first year of the CSin3 ac
 The materials for Cohort Enrichment are being compiled on the [Cohort Enrichment Website](https://sites.google.com/a/csumb.edu/fys-cs/) (still incomplete).
 
 <a id="pltl"></a>
-### Peer-led Team Learning  
+## Peer-led Team Learning  
 
-I train and manage about 20 Peer Leaders each semester, who guide students through weekly Peer-Led Team Learning workshops for introductory computer science courses. In these workshops, 4-10 students solve a challenging packet of problems collaboratively with their classmates, while the Peer Leader facilitates and guides discussion.
+I trained and managed about 30 Peer Leaders each semester, who guide students through weekly Peer-Led Team Learning workshops for introductory computer science courses. In these workshops, 4-10 students solve a challenging packet of problems collaboratively with their classmates, while the Peer Leader facilitates and guides discussion.
 
 View the [CSUMB Peer-Led Team Learning website](https://sites.google.com/a/csumb.edu/cs-pltl/) for more information. A website with all my PLTL materials is in progress.
 
 <a id="ta"></a>
-### TA++ 
+## TA++ 
 
 I have created an organizational structure for computer science TAs at CSUMB called TA++. A TA++ is a TA...and more. TA++s do typical TA duties, but also come together for weekly training activities focused on more effective methods of supporting somputer science instruction. TA++s for introductory programming classes lead Peer-Led Team Learning sessions in addition to regular TA duties.
 
 Check out the [TA++ website](https://sites.google.com/a/csumb.edu/taplusplus/) for more details. Information about how to replicate the TA++ program is coming soon.
 
 <a id="other"></a>
-### Other projects:
+## Other projects:
 
 * [ACM CS 2013 Curriculum Guidelines organizers](https://docs.google.com/spreadsheets/d/1kKpr4QBuA4__FREyXBNL-JvqMCIp0Av0AZ1TpTK3orw/edit?usp=sharing)
 * Git diagrams for Open Source Comes to Campus
@@ -58,7 +58,7 @@ Check out the [TA++ website](https://sites.google.com/a/csumb.edu/taplusplus/) f
 * [PeerInstruction4CS](http://www.peerinstruction4cs.org/) by Leo Porter, Cynthia Lee, Daniel Zingaro, Beth Simon, and friends
 
 <a id="advice"></a>
-### The teaching advice I give myself
+## The teaching advice I give myself
 
 These tips may seem obvious, or maybe they aren't obvious! They are techniques I don't see employed in most computer science courses I work with, but I think they are crucial to my students' success. I would absolutely love to perform research to prove their effectiveness.
 
