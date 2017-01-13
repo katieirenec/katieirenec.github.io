@@ -5,7 +5,7 @@ title: Rubber ducks and research
 
 I am starting my second semester as a PhD student at Georgia Tech, working on computing education research with advisor Mark Guzdial. Atlanta has extremely variable weather, and so fog is not nearly as common as in Monterey County. With that in mind, I needed to change the theme of the blog... but to what? 
 
-Rubber ducks and rubber duck de-bugging were a theme I integrated into my TA training programs, to emphasize the use of student self-explanation (rather than TA-led explanation) while TAs did their jobs. I gave out little rubber ducks during TA orientation each semester, and always made sure a duck was present in the student computing lab at Cal State Monterey Bay.
+Rubber ducks and rubber duck de-bugging were a theme I integrated into my TA training programs, to emphasize the value of student self-explanation (as opposed to TA-led explanation). I gave out little rubber ducks during TA orientation each semester, and always made sure a duck was present in the student computing lab at Cal State Monterey Bay.
 
 ![Rubber ducking it](https://pbs.twimg.com/media/B74h4TJCUAA65uq.jpg)
 
