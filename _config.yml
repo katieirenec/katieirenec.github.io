@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            CS, Ed, & Fog
+title:            Rubber Duck Computing Ed
 tagline:          "Computer Science is awesome, and more students deserve a high-quality CS education."
-description:      "Bringing computer science to the fog, the farm, and the shores."
+description:      "Active, reflective, and social computer science education."
 url:              ''
 baseurl:          /
 
@@ -16,7 +16,7 @@ author:
   name:           'Katie Cunningham'
   url:            https://twitter.com/katieirenec
 
-paginate:         5
+paginate:         3
 
 # Custom vars
 version:          0.1.0
