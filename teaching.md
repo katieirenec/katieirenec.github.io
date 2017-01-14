@@ -9,7 +9,7 @@ title: Teaching materials
 3. [TA++](#ta)
 4. [Other Projects](#other)
 5. [My Favorite Resources](#favorite)
-6. [The teaching advice I give myself](#advice)
+6. [Teaching advice I've given myself](#advice)
 
 As CS Education Coordinator, I managed the following support activities. On this page, I'll link resources that can help others replicate these programs.
 
@@ -37,7 +37,7 @@ I trained and managed about 30 Peer Leaders each semester, who guide students th
 
 View the [CSUMB Peer-Led Team Learning website](https://sites.google.com/a/csumb.edu/cs-pltl/) for more information. A website with all my PLTL materials is in progress.
 
-![Found in lab one day](https://pbs.twimg.com/media/Ce1nCr7UsAAgG-2.jpg:large)
+![Found in lab one day](https://pbs.twimg.com/media/Ce1nCr7UsAAgG-2.jpg:small)
 
 <a id="ta"></a>
 
@@ -48,6 +48,7 @@ I have created an organizational structure for computer science TAs at CSUMB cal
 Check out the [TA++ website](https://sites.google.com/a/csumb.edu/taplusplus/) for more details. Information about how to replicate the TA++ program is coming soon.
 
 <a id="other"></a>
+
 ## Other projects:
 
 * [ACM CS 2013 Curriculum Guidelines organizers](https://docs.google.com/spreadsheets/d/1kKpr4QBuA4__FREyXBNL-JvqMCIp0Av0AZ1TpTK3orw/edit?usp=sharing)
@@ -65,9 +66,9 @@ Check out the [TA++ website](https://sites.google.com/a/csumb.edu/taplusplus/) f
 
 <a id="advice"></a>
 
-## The teaching advice I give myself
+## Teaching advice I've given myself
 
-These tips may seem obvious, or maybe they aren't obvious! They are techniques I don't see employed in most computer science courses I work with, but I think they are crucial to my students' success. I would absolutely love to perform research to prove their effectiveness.
+These tips may seem obvious, or maybe they aren't obvious! They are techniques I haven't see employed in most computer science courses I've worked with, but I found them are crucial to my students' success when I was CS Education Coordinator at CSU Monterey Bay. These techniques have influenced my current research interests.
 
 #### Memory boxes, memory boxes, memory boxes!
 
