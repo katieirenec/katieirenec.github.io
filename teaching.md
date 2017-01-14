@@ -14,6 +14,7 @@ title: Teaching materials
 As CS Education Coordinator, I managed the following support activities. On this page, I'll link resources that can help others replicate these programs.
 
 <a id="enrichment"></a>
+
 ## Cohort Enrichment, Year 1
 
 I held three-hour weekly sessions for students in the first year of the CSin3 accelerated degree program. These sessions are focused on skills students need to succeed in college generally and in computer science specifically. Topics covered are:
@@ -29,13 +30,17 @@ I held three-hour weekly sessions for students in the first year of the CSin3 ac
 The materials for Cohort Enrichment are being compiled on the [Cohort Enrichment Website](https://sites.google.com/a/csumb.edu/fys-cs/) (still incomplete).
 
 <a id="pltl"></a>
+
 ## Peer-led Team Learning  
 
 I trained and managed about 30 Peer Leaders each semester, who guide students through weekly Peer-Led Team Learning workshops for introductory computer science courses. In these workshops, 4-10 students solve a challenging packet of problems collaboratively with their classmates, while the Peer Leader facilitates and guides discussion.
 
 View the [CSUMB Peer-Led Team Learning website](https://sites.google.com/a/csumb.edu/cs-pltl/) for more information. A website with all my PLTL materials is in progress.
 
+![Found in lab one day](https://pbs.twimg.com/media/Ce1nCr7UsAAgG-2.jpg:large)
+
 <a id="ta"></a>
+
 ## TA++ 
 
 I have created an organizational structure for computer science TAs at CSUMB called TA++. A TA++ is a TA...and more. TA++s do typical TA duties, but also come together for weekly training activities focused on more effective methods of supporting somputer science instruction. TA++s for introductory programming classes lead Peer-Led Team Learning sessions in addition to regular TA duties.
@@ -50,6 +55,7 @@ Check out the [TA++ website](https://sites.google.com/a/csumb.edu/taplusplus/) f
 * [Web-CAT made easier](https://github.com/paulproteus/webcat-vagrant)
 
 <a id="favorite"></a>
+
 ### My favorite resources:
 
 * [How Learning Works](https://books.google.com/books/about/How_Learning_Works.html?id=UZE6fBn81_EC&printsec=frontcover&source=kp_read_button&hl=en#v=onepage&q&f=false)
@@ -58,6 +64,7 @@ Check out the [TA++ website](https://sites.google.com/a/csumb.edu/taplusplus/) f
 * [PeerInstruction4CS](http://www.peerinstruction4cs.org/) by Leo Porter, Cynthia Lee, Daniel Zingaro, Beth Simon, and friends
 
 <a id="advice"></a>
+
 ## The teaching advice I give myself
 
 These tips may seem obvious, or maybe they aren't obvious! They are techniques I don't see employed in most computer science courses I work with, but I think they are crucial to my students' success. I would absolutely love to perform research to prove their effectiveness.

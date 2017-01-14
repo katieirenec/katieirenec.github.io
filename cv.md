@@ -16,21 +16,24 @@ title: CV
 10. [Professional Memberships](#memberships)
 
 <a id="education"></a>
+
 ### EDUCATION:  
 
-Ph.D.   Georgia Institute of Technology  (Started Aug 2015)
-*Major:* Human-Centered Computing
-*Emphasis:* Learning Science and Technology 
-*Cumulative GPA:* 4.000
+Ph.D.   Georgia Institute of Technology  (Started Aug 2016)   
+*Major:* Human-Centered Computing  
+*Emphasis:* Learning Science and Technology  
+*Advisor:* Mark Guzdial  
+*Cumulative GPA:* 4.000  
 
-B.S.	University of Arizona, Honors College  (May 2013)  
-*Majors:* Computer Science; Molecular and Cellular Biology
+B.S.	University of Arizona, Honors College  (Graduated May 2013)  
+*Majors:* Computer Science; Molecular and Cellular Biology  
 *Minor:* Mathematics  
 *Cumulative GPA:* 3.926  
-*Study abroad*	National University of Singapore, Fall 2011  
-*NSF REU*	University of Pittsburgh Department of Computational and Systems Biology, Summer 2011  
+*Study abroad:*	National University of Singapore, Fall 2011  
+*NSF REU:*	University of Pittsburgh Department of Computational and Systems Biology, Summer 2011  
 
 <a id="honors"></a>
+
 ### HONORS:   
 **University of Arizona:**  
 Pillars of Excellence Awardee, Spring 2013  
@@ -45,13 +48,15 @@ Phi Kappa Phi, Spring 2012
 National Merit Scholar, Spring 2008  
 
 <a id="professional"></a>
+
 ### PROFESSIONAL EXPERIENCE:  
-*Computer Science Education Coordinator, California State University Monterey Bay, July 2013-Present* 
+*Computer Science Education Coordinator, California State University Monterey Bay, July 2013-June 2016* 
  
  * Evaluate, mentor, and support community college and university students seeking an accelerated Bachelor's degree in Computer Science (CSin3). 
  * Supervise, train, and develop curriculum for 22 computer science tutors who lead weekly collaborative problem-solving workshops targeting conceptual understanding and common misconceptions.
 
 <a id="research"></a>  
+
 ### RESEARCH EXPERIENCE:   
 *Faster Optimization for ∂a∂i, University of Arizona Molecular and Cellular Biology, Summer 2012-Spring 2013*  
 
@@ -81,6 +86,7 @@ National Merit Scholar, Spring 2008
  * Conceptualized and developed extendable virtual notebook system that can be customized with quizzes, images, and interactive activities, with feedback from K12 teachers. Programming was done in Java.
 
 <a id="teaching"></a>
+
 ### TEACHING EXPERIENCE:  
 *Instructor, Cohort Enrichment - Year 1, CSin3 program, Hartnell College, Fall 2013-Present*  
 
@@ -92,7 +98,7 @@ National Merit Scholar, Spring 2008
  * Taught intensive 2-week boot camp on data structures basics, including binary search, Big-O, linked lists, stacks, queues, and recursion.  
  * Utilized active lecture style featuring Peer Instruction. All assignments incorporated unit testing.
 
-*Teaching Assistant, [300-level quantitative biology course](http://gutengroup.mcb.arizona.edu/MCB315.html), University of Arizona, Spring and Fall 2012*  
+*Teaching Assistant, [300-level quantitative biology course](http://gutengroup.mcb.arizona.edu/mcb-315/), University of Arizona, Spring and Fall 2012*  
 
  * Held weekly office hours, often with an emphasis on MATLAB help.  
  * Developed answer sets and graded homework assignments.  
@@ -103,16 +109,20 @@ National Merit Scholar, Spring 2008
  * Supervised 11 WiCS members to advertise, plan, and teach basic programming in Python, Java, and C over multiple weekend workshops. 
 
 <a id="grants"></a>
+
 ### GRANTS:  
 *Innovation Award, California Department of Finance, $5 millon for continued work and expansion of the CSin3 program*
 
 <a id="languages"></a>
+
 ### PROGRAMMING LANGUAGES:   
-Python with SciPy/NumPy/Matplotlib, MATLAB, Java, C, C++, MIPS
+Python with SciPy/NumPy/Matplotlib, MATLAB, Java, C, C++, MIPS  
+
 ### DEVELOPMENT TOOLS:  
 git, bash, vagrant
 
 <a id="publications"></a> 
+
 ### PUBLICATIONS:  
 1.	M. Lara, K. Cunningham, B. Su. “Implementing Peer-Led Team Learning in a Community College Computer Science Course: Lessons Learned.” 15th Annual Hawaii International Conference on Education, 2017.
 2.	K. Cunningham, A. Seetharam, S. Narayanan, B. Su. “Establishing an Effective Teaching Assistant Program for Computer Science Undergraduate Education.” 14th Annual Hawaii International Conference on Education, 2016. 
@@ -121,12 +131,14 @@ git, bash, vagrant
 5.	R. Chernobelskiy, K. Cunningham, M. Goodrich, S. G. Kobourov, L. Trott, “Force-Directed Lombardi-Style Graph Drawing.” 19th Symposium on Graph Drawing (GD), p. 320-331, 2011.
 
 <a id="presentations"></a> 
+
 ### PRESENTATIONS:  
   1. K. Cunningham. “Peer-Led Team Learning Supports Computer Science Persistence at Community College.” Poster session presented at: International Computing Education Research Conference, 2015.
   2. K. Cunningham, D. Fossati. “Exploring Discovery and Refinement of KCs with Introductory Programming Assignment Data.” Poster summarized research project completed at: LearnLab Summer School, 2015 at Carnegie Mellon University.
-  3. R. Chernobelskiy, K. Cunningham, M. Goodrich, S. G. Kobourov, L. Trott, “Force-Directed Lombardi-Style Graph Drawing.” Conference publication presented at 19th Symposium on Graph Drawing (GD), p. 320-331, 2011.
+  3. R. Chernobelskiy, K. Cunningham, M. Goodrich, S. G. Kobourov, L. Trott, “Force-Directed Lombardi-Style Graph Drawing.” Conference publication presented at 19th Symposium on Graph Drawing, Eindhoven, Netherlands, 2011.
 
 <a id="memberships"></a> 
+
 ### PROFESSIONAL MEMBERSHIPS:  
  * ACM – Member since July 2013
  * SIGCSE – Member since February 2015
