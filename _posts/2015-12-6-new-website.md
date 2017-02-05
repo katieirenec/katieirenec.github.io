@@ -3,7 +3,7 @@ layout: post
 title: New website! 
 ---
 
-Welcome to my new website! Moving off Blogspot to a custom website powered by a static site generator has been a goal of mine for a while, and now it's done! I hope you enjoy my site as much as I enjoyed learning [Jekyll](https://jekyllrb.com/) and using the beautiful [Hyde](hyde.getpoole.com) layout. 
+Welcome to my new website! Moving off Blogspot to a custom website powered by a static site generator has been a goal of mine for a while, and now it's done! I hope you enjoy my site as much as I enjoyed learning [Jekyll](https://jekyllrb.com/) and using the beautiful [Hyde](http://hyde.getpoole.com) layout. 
 
 I plan to use this site as a hub for links to all the work I do, and also to blog occasionally about computer science education topics. 
 
