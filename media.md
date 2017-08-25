@@ -3,6 +3,8 @@ layout: page
 title: Media
 ---
 
+[IC Ph.D. student Katie Cunningham receives NSF fellowship](https://www.cc.gatech.edu/news/589186/ic-phd-student-katie-cunningham-receives-nsf-fellowship). David Mitchell, Georgia Tech College of Computing News. March 23, 2017.
+
 # Articles profiling the CSin3 program: 
 *(formerly CSIT-In-3)*  
 
