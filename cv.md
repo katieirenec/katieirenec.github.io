@@ -11,9 +11,8 @@ title: CV
 5. [Teaching Experience](#teaching)
 6. [Grants](#grants)
 7. [Languages and Tools](#languages)
-8. [Publications](#publications)
-9. [Presentations](#presentations)
-10. [Professional Memberships](#memberships)
+8. [Publications and Posters](#publications)
+9. [Professional Memberships](#memberships)
 
 <a id="education"></a>
 
@@ -35,6 +34,7 @@ B.S.	University of Arizona, Honors College  (Graduated May 2013)
 <a id="honors"></a>
 
 ### HONORS:   
+National Science Foundation Graduate Fellowship, 2017  
 **University of Arizona:**  
 Pillars of Excellence Awardee, Spring 2013  
 College of Science Outstanding Senior, Fall 2012  
@@ -58,6 +58,17 @@ National Merit Scholar, Spring 2008
 <a id="research"></a>  
 
 ### RESEARCH EXPERIENCE:   
+
+*Sketching and Tracing on introductory programming problems, Fall 2016-present*
+
+- Evaluated student sketching behavior among introductory programming students, and its correlation with correct program tracing.
+- Replicated earlier work determining that drawing traces of memory states is the sketching technique more correlated with success on code reading problems. 
+- Found that students who started but did not finish a sketched trace performed most poorly. 
+
+*Interactive ebooks for AP CSP, Spring 2017*
+
+- Managed 17 undergraduate researchers in the development and evaluation of ebooks for AP Computer Science Principles. Changes included improved accessibility through interface changes to the Runestone platform, new content including practice tests, and suggestions for future improvements.
+
 *Faster Optimization for ∂a∂i, University of Arizona Molecular and Cellular Biology, Summer 2012-Spring 2013*  
 
 - Developed strategies to improve nonlinear optimization routines for the open source demographic inference software package ∂a∂i, with a focus on tweaking SciPy’s BFGS algorithm for ∂a∂i’s objective function.  
@@ -123,19 +134,9 @@ git, bash, vagrant
 
 <a id="publications"></a> 
 
-### PUBLICATIONS:  
-1.	M. Lara, K. Cunningham, B. Su. “Implementing Peer-Led Team Learning in a Community College Computer Science Course: Lessons Learned.” 15th Annual Hawaii International Conference on Education, 2017.
-2.	K. Cunningham, A. Seetharam, S. Narayanan, B. Su. “Establishing an Effective Teaching Assistant Program for Computer Science Undergraduate Education.” 14th Annual Hawaii International Conference on Education, 2016. 
-3.	G.T. Huang, K. Cunningham, P.V. Benos, C. Chennubhotla. “Spectral clustering strategies for heterogeneous disease expression data.” Pacific Symposium on Biocomputing, 2013.
-4.	J. Turner, B. Smart, K. Hardegree-Ullman, T. Carleton, A. Walker-LaFollette, B. Crawford, C. Smith, A. McGraw, L. Small, M. Rocchetto, K. Cunningham, et al. “Near-UV and optical observations of the transiting exoplanet TrES-3b.” Monthly Notices of the Royal Astronomical Society. 2012 September.
-5.	R. Chernobelskiy, K. Cunningham, M. Goodrich, S. G. Kobourov, L. Trott, “Force-Directed Lombardi-Style Graph Drawing.” 19th Symposium on Graph Drawing (GD), p. 320-331, 2011.
+### PUBLICATIONS and POSTERS:  
 
-<a id="presentations"></a> 
-
-### PRESENTATIONS:  
-  1. K. Cunningham. “Peer-Led Team Learning Supports Computer Science Persistence at Community College.” Poster session presented at: International Computing Education Research Conference, 2015.
-  2. K. Cunningham, D. Fossati. “Exploring Discovery and Refinement of KCs with Introductory Programming Assignment Data.” Poster summarized research project completed at: LearnLab Summer School, 2015 at Carnegie Mellon University.
-  3. R. Chernobelskiy, K. Cunningham, M. Goodrich, S. G. Kobourov, L. Trott, “Force-Directed Lombardi-Style Graph Drawing.” Conference publication presented at 19th Symposium on Graph Drawing, Eindhoven, Netherlands, 2011.
+See [Publications page](../pubs).
 
 <a id="memberships"></a> 
 
