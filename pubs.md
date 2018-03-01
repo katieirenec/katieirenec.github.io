@@ -18,7 +18,7 @@ title: Publications
   6. **Kathryn Cunningham**, Davide Fossati. Exploring Discovery and Refinement of KCs with Introductory Programming Assignment Data. Poster summarized research project completed at LearnLab Summer School 2015 at Carnegie Mellon University.
 
 ### EXPERIENCE REPORTS
-  1. Sathya Narayanan, **Kathryn Cunningham**, Sonia Arteaga, Joe Welch, Leslie Kern, Bude Su, Zechariah Chawinga. 2018. Upward Mobility for Underrepresented Students: A Model for a Cohort-Based Bachelor’s Degree in Computer Science. To be published in Proceedings of the 2018 ACM SIGCSE Technical Symposium on Computer Science Education.
+  1. Sathya Narayanan, **Kathryn Cunningham**, Sonia Arteaga, Joe Welch, Leslie Kern, Bude Su, Zechariah Chawinga. 2018. [Upward Mobility for Underrepresented Students: A Model for a Cohort-Based Bachelor’s Degree in Computer Science](../public/CSin3_SIGCSE_authorversion.pdf). Proceedings of the 2018 ACM SIGCSE Technical Symposium on Computer Science Education.
   2. Miguel Lara, **Kathryn Cunningham**, Bude Su. Implementing Peer-Led Team Learning in a Community College Computer Science Course: Lessons Learned. Proceedings of the 15th Annual Hawaii International Conference on Education, 2017.
   3. **Kathryn Cunningham**, Anand Seetharam, Sathya Narayanan, Bude Su. Establishing an Effective Teaching Assistant Program for Computer Science Undergraduate Education. Proceedings of the 14th Annual Hawaii International Conference on Education, 2016. 
 
