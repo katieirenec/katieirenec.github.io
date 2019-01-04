@@ -18,9 +18,14 @@ title: CV
 
 ### EDUCATION:  
 
-Ph.D.   Georgia Institute of Technology  (Started Aug 2016)   
+Ph.D. University of Michigan  (Predicted Graduation May 2021)
+*Major:* Information  
+*Focus:* Computing Education
+*Advisor:* Mark Guzdial   
+
+M.S. Georgia Institute of Technology  (Graduated Aug 2016)   
 *Major:* Human-Centered Computing  
-*Emphasis:* Learning Science and Technology  
+*Emphasis:* Learning Science and Technology (Computing Education)
 *Advisor:* Mark Guzdial  
 *Cumulative GPA:* 4.000  
 
@@ -59,7 +64,11 @@ National Merit Scholar, Spring 2008
 
 ### RESEARCH EXPERIENCE:   
 
-*Sketching and Tracing on introductory programming problems, Fall 2016-present*
+*Pushing programming plans into context, Fall 2017-present*
+
+- How can we modernize the idea of "programming plans" for use by today's novice programmers? 
+
+*Sketching and tracing on introductory programming problems, Fall 2016-present*
 
 - Evaluated student sketching behavior among introductory programming students, and its correlation with correct program tracing.
 - Replicated earlier work determining that drawing traces of memory states is the sketching technique more correlated with success on code reading problems. 
