@@ -18,14 +18,14 @@ title: CV
 
 ### EDUCATION:  
 
-Ph.D. University of Michigan  (Predicted Graduation May 2021)
+Ph.D. University of Michigan  (Predicted Graduation May 2021)  
 *Major:* Information  
-*Focus:* Computing Education
+*Focus:* Computing Education  
 *Advisor:* Mark Guzdial   
 
 M.S. Georgia Institute of Technology  (Graduated Aug 2016)   
 *Major:* Human-Centered Computing  
-*Emphasis:* Learning Science and Technology (Computing Education)
+*Emphasis:* Learning Science and Technology (Computing Education)  
 *Advisor:* Mark Guzdial  
 *Cumulative GPA:* 4.000  
 
