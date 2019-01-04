@@ -7,7 +7,7 @@ title: whoami
 
 ## Hey! I'm Katie Cunningham.
 
-I am currently a PhD student focusing on [Computing Education Research](https://faculty.washington.edu/ajko/cer). I am in the [Human-Centered Computing program](http://www.cc.gatech.edu/academics/degree-programs/phd/human-centered-computing) at Georgia Tech, working with advisor [Mark Guzdial](https://twitter.com/guzdial). I am interested in how students understand the notional machine, and how techniques like sketching and testing can help improve that understanding.
+I am currently a PhD student focusing on [Computing Education Research](https://faculty.washington.edu/ajko/cer). I am in the School of Information at the University of Michigan, working with advisor [Mark Guzdial](https://twitter.com/guzdial). I transfered to michigan from the [Human-Centered Computing program](http://www.cc.gatech.edu/academics/degree-programs/phd/human-centered-computing) at Georgia Tech, where I spent the first two years of my PhD. I am interested in how novices understand programming, including conflicts between different mental representations.
 
 Previously, I was the Computer Science Education Coordinator at Cal State Monterey Bay and Hartnell College. I worked closely with students from the Salinas Valley to ensure they obtain the education they need to compete for top opportunities in software engineering and other computing careers. I developed and managed many programs to achieve this goal, including [TA++](https://sites.google.com/a/csumb.edu/taplusplus/), [Peer-Led Team Learning](https://sites.google.com/a/csumb.edu/cs-pltl/what-is-pltl), and [Cohort Enrichment](https://sites.google.com/a/csumb.edu/fys-cs/).
 
