@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Rubber Duck Computing Ed
+tagline:          "Computer Science is awesome, and more students deserve a high-quality CS education."
+description:      "Active, reflective, and social computer science education."
+url:              ''
+baseurl:          /
+
+author:
+  name:           'Katie Cunningham'
+  url:            https://twitter.com/katieirenec
+
+paginate:         3
+
+# Custom vars
+version:          0.1.0
+
+github:
+  repo:           https://github.com/katieirenec/katieirenec.github.io

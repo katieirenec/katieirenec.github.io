@@ -1,0 +1,42 @@
+---
+title: "Kathryn Cunningham"
+image: "headshot.jpeg"
+links:
+  - label: CV
+    url: "~/CV"
+  - label: Email
+    url: "mailto:kcunningham@northwestern.edu"
+  - label: Twitter
+    url: "https://twitter.com/katieirenec"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/katieirenec/"
+
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Kathryn "Katie" Cunningham studies the way novices learn to program, and invents new methods for teaching computing.
+
+## Education
+
+**University of Michigan** | Ann Arbor, MI
+
+Ph.D. in Information | September 2018 - December 2020
+
+**Georgia Institute of Technology** | Atlanta, GA
+
+M.S. in Computer Science (HCC) | August 2016 - August 2018
+
+**University of Arizona** | Tucson, AZ
+
+B.S. in Computer Science | September 2005 - May 2009
+
+## Experience
+
+**Northwestern University** | Postdoc | January 2021 - Present
+
+**TERC** | Independent Contractor - Research | May 2017 - August 2017
+
+**Cal State Monterey Bay** | CS Ed Coordinator | July 2013 - June 2016
