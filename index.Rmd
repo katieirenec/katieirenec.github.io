@@ -3,7 +3,7 @@ title: "Kathryn Cunningham"
 image: "headshot.jpeg"
 links:
   - label: CV
-    url: "~/CV"
+    url: "/public/KCunningham_CV_online.pdf"
   - label: Email
     url: "mailto:kcunningham@northwestern.edu"
   - label: Twitter
