@@ -6,6 +6,8 @@ links:
     url: "/public/KCunningham_CV_online.pdf"
   - label: Email
     url: "mailto:kcunningham@northwestern.edu"
+  - label: Scholar
+    url: "https://scholar.google.com/citations?user=0qZz9bYAAAAJ"
   - label: Twitter
     url: "https://twitter.com/katieirenec"
   - label: LinkedIn
@@ -17,7 +19,7 @@ output:
  
 ## Bio
 
-Kathryn "Katie" Cunningham studies the way novices learn to program, and invents new methods for teaching computing.
+Kathryn "Katie" Cunningham studies the way novices learn to program, and invents new methods for teaching computing. 
 
 ## Education
 
