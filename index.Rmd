@@ -17,13 +17,13 @@ output:
   postcards::trestles
 ---
  
-## Bio
+<!-- ## Research -->
 
 Kathryn "Katie" Cunningham studies the way novices learn to program, and invents new methods for teaching computing. 
 
-Using *human-centered computing methods* in the context of *computer science education*, my research improves learners’ motivation and cognition while learning programming, with a long-term goal of broadening pathways to computing education.
+Using *human-centered computing methods* in the context of *computer science education*, her research improves learners’ motivation and cognition while learning programming, with a long-term goal of broadening pathways to computing education.
 
-My current focus is on understanding and supporting novice learners with diverse goals, and developing new software-supported scaffolding that allows learners to focus on code’s purpose.
+Dr. Cunningham's current focus is on understanding and supporting novice learners with diverse goals, and developing new software-supported scaffolding that allows learners to focus on code’s purpose.
 
 ## Education
 
