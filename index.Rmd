@@ -5,7 +5,7 @@ links:
   - label: CV
     url: "/public/KCunningham_CV_online.pdf"
   - label: Email
-    url: "mailto:kcunningham@northwestern.edu"
+    url: "mailto:katcun@illinois.edu"
   - label: Scholar
     url: "https://scholar.google.com/citations?user=0qZz9bYAAAAJ"
   - label: Twitter
@@ -41,7 +41,9 @@ B.S. in Computer Science | May 2013
 
 ## Experience
 
-**Northwestern University** | Postdoc | January 2021 - Present
+**University of Illinois Urbana-Champaign** | Assistant Prof | July 2022 - Present
+
+**Northwestern University** | Postdoc | January 2021 - July 2022
 
 **TERC** | Independent Contractor - Research | May 2017 - August 2017
 
