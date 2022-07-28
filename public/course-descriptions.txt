@@ -1,0 +1,259 @@
+Develop communication, leadership, and teaching skills while working with youth to broaden
+participation in computing. With training, student teams assist in after-school programs and K-12
+classes to engage youth in computational thinking. Focus on low-entry technologies for creating
+interactive stories, games, websites, and robotics projects.
+
+It is hard to have a conversation about the role or potential of technology in education without coming across the term: Computational Thinking (CT). The last decade has seen the term go from a rallying cry from computer scientists to an essential 21st century skill cited in national curricular frameworks and championed as belonging alongside reading, writing and arithmetic as a core instructional goal of education. However, despite its growing prominence and use (or potentially because of it), CT is not without its issues. A lack of clarity on exactly what it is, how it relates to other content areas, and effective ways to assess it all plague those trying to use CT in their research or instruction. This graduate seminar takes a critical look at CT, seeking to understand its historical roots, modern incarnations, and the challenges we still face in working with this amorphous construct.
+
+Examine issues in teaching and learning of programming in Java with a focus teaching of
+secondary level students. Teaching and learning of Algorithms; Data structures & representation; Searching & Sorting; Basic software design processes & impacts on society. Developing an educational infrastructure and professional community that supports computing in traditional K-12 environments.
+
+Trends in computing education: pedagogies,
+curriculum, languages and tools.
+Programming learning. Computing in
+education: virtual learning environments,
+computer-supported collaborative learning,
+educational software, computer-mediated
+distance education. Trends in computing in
+early childhood, elementary, middle, higher
+and continuing education. Qualitative
+research approaches in computing and
+education: case study, ethnography,
+grounded theory, phenomenology and action
+research. Data collection techniques and
+qualitative data analysis. Quantitative
+methods in computing and education:
+surveys and experiments. Mixed methods.
+
+Introduction to computing education research (CER). History and influential early
+work. Design of research studies in CER, including Multi-Institutional Multi-National, laboratory, and
+classroom studies. Grounding in theory from learning sciences, educational psychology, science
+education, and HCI .
+This course will provides students in Engineering Education with strategies and frameworks for understanding
+computing education research. Introduction to current trends and practices in computing education research
+(CER). The course will cover history of CER, a brief overview of relevant learning theory and educational
+concepts, and focus on current topics in CER. Students will explore issues of broadening participation in
+computing, classroom techniques for teaching computing (programming), computational thinking, and the
+application of educational psychology, learning science, and science education into the discipline. During the
+course, students will read articles from the current literature, present information, and participate in classroom
+discussion.
+
+Familiarizes teachers, grades with pedagogical approaches and
+innovative teaching techniques needed to convey to a diverse
+population emerging state and professional standards-based
+curriculum in computer science. Innovative uses of technology,
+development of instructional units, individualizing for a diverse
+population of students, and strategies for managing problem behavior
+will be emphasized throughout the course.
+
+Provides pedagogical and content knowledge and experiences to be an effective computer science
+teachers in the K-12 setting. Misconceptions in programming, teaching debugging, development of
+differentiated programming assignments, use of Use-Modify,-Create approach, pedagogy and
+classroom engagement practices for supporting student success.
+
+This course is designed for outstanding students who intern as undergraduate mentors in lower division CS
+courses. Lecture/discussion surveys current research and best practices in CS pedagogy including student
+development theories, different pedagogical techniques, and methods for assessing learning. Students gain
+experience working one-on-one with students, fostering positive learning environments, and providing feedback
+on student work.
+Students who successfully complete this course will earn 4 units towards their major field electives by serving
+as a mentor. They will also be eligible to apply for paid tutoring positions in lower division undergraduate
+courses in the following quarters.
+
+This course explores ideas related to the use of technology in education and how people learn
+computer science concepts. Topics include research methodologies used in computer science
+education, how novices learn to program, and how technology can engage students in active
+learning, facilitate collaboration and enhance traditional educational practice.
+There are two major components to this course -- how students learn Computer Science (Computer
+Science Education) and how computers can be used to improve learning in all subjects (Computers
+in Education).
+Computer Science Education is the study of how students learn computing concepts. We look how
+novices learn to program, differences between programming languages and environments used in
+computer science education, visualization of computing concepts, curriculum design and delivery,
+attitudes and diversity in the computing classroom.
+Computers in Education is the study of how computers are used to enhance learning. Computers
+play an increasingly important role in modern education as tools to communicate knowledge, engage
+students in active learning, and facilitate collaboration. We look at different instructional technologies
+and how computer software can enhance traditional education practice, including educational games
+and tools that support collaboration.
+
+This course teaches methods and approaches for designing, delivering, and evaluating
+computer science lesson and unit plans, with a particular focus on issues of diversity,
+equity, inclusion, and justice in those lessons.
+
+CSE 599 will help you during your first CSE TA experience. In this class, you will learn how to synthesize
+information and help others learn it. You will meet weekly with other first-time TAs and a mentor to share your
+experiences and practice key skills. And you will document your learning process by observing teaching and
+reflecting on your growth.
+
+This curricular component is of fundamental importance for the training of researchers
+in the area of computing education, in addition to offering complementary knowledge to
+postgraduate students in the area of Computer Science on the area of teaching and
+learning of computing, proposing reflections on the theory and the practice of computer
+education in Brazil and in the world.
+
+This course is a broad introduction to Computer Science Pedagogy. This course is targeted toward students who are interested in
+improving their ability to teach computer science and who are interested in the science of teaching and learning. This course is
+primarily organized like a Ph.D.-level seminar on computer science pedagogy but with an extensive experiential component:
+Students will get substantial practice developing, implementing, and testing course materials as if the instructor of a college-level
+computer science course. Students will also gain experience writing and preparing teaching philosophy statements and will have
+the opportunity to develop and enrich their teaching portfolios for applying in the academic job market.
+
+Introduction to computing education research (CER). History
+and influential early work. Learning goals for different populations. Connections to re-
+search in learning sciences, educational psychology, science education, and HCI . De-
+sign of research studies in CER, including Multi-Institutional Multi-National, laboratory,
+and classroom studies.
+
+
+Focus is on current research, theory, and practice related to teaching computer science
+and information technology in pre-college settings. Designed for beginning and advanced
+classroom teachers, the course promotes inquiry into major contemporary issues
+concerning computing education; developmental needs, standards and assessments,
+methods for promoting computational thinking and computational practices across
+contexts and content areas. This course is part of a sequence that prepares teachers to
+offer the Advanced Placement Computer Science Principles course and other computing
+courses.
+
+This course is designed for students to explore and master the principles of effective instruction in
+computer science, including incorporating computer science into single subject content areas,
+promoting productive classroom discourse, and building student capacity to critically engage with
+computer science. The course seeks to foster an understanding of the structure of the content
+disciplines as represented in the most current state standards policy documents and to provide
+opportunities to develop skills in planning unit and daily lesson plans. Special considerations are given to
+techniques that help students construct meaning using their own prior experiences/backgrounds and to
+acquire skills of applying lessons learned in solving their real-life problems. While the course provides
+opportunities to refine critical skills and competencies for classroom teaching, it is also intended to
+foster thoughtful reflection on teaching and the development of professional attitudes.
+
+The course will cover a variety of topics in the field of computer science education research.
+Foundational topics include qualitative and quantitative methods, learning sciences, applied
+cognitive science, and study design. Specialized topics include notional machines,
+assessment, paradigms, tools, environments, and misconceptions. There will be extensive
+readings as well as projects.
+
+The course illustrates how students learn and understand computer science. It provides insights on how learning of computer science concepts
+and skills occurs and how, with such knowledge as a base, to develop teaching the subject. The course is based on the current subject didactic
+research and provides ample opportunities for individualisation. It is addressed especially to those who want to teach in the computer area, but
+suitable for anyone who wants to discuss about computers and their applications with other than subject matter experts.
+
+This course is designed to provide potential computer science (CS) teachers with an
+understanding of general and specific methods for teaching CS in middle and high school.
+Students will examine a variety of computing tools, virtual environments, and a variety of other
+resources to support the teaching of CS. Effective pedagogical strategies for curriculum design,
+assessments, differentiation, and classroom management will be addressed.
+
+In this course we will examine the role of computational tools in the design of transformative teaching
+and learning environments. Grounded in perspectives from the Learning Sciences and Computer Science
+Education, we will cover topics of equity and inclusion, pedagogy, creative applications of computing,
+and the integration of computational ideas across multiple disciplines. We have cross-listed the course
+in Teacher Education, Learning Sciences, and Computer Science in order to foster cross-disciplinary
+dialogues that consider the affordances of computational ideas for designing learning environments that
+are asset-based and supportive of multiple routes to understanding various subject-matter.
+
+Building upon the concepts from CS 104, students will explore in-depth how computer science education is
+presented in the secondary education setting. Students will get the opportunity to explore current computer
+science curriculum and develop resources for future teaching, with a specific emphasis on the College
+Board’s AP CS Principles (AP CSP) curriculum.
+
+An introduction to pedagogical methods and practical techniques for computing
+education: selecting appropriate content, designing assignments and activities,
+evaluating student learning, and evaluating teaching efficacy. Hands-on guided
+curricular design activities and real-world practice.
+
+This seminar course explores how tools and technologies can be designed to support learning
+computer science in exciting and potentially unexpected ways. We will explore computer
+science learning across informal and formal contexts at the K-12 and university level. We will
+study the design of programming languages, interest-driven programming activities, and
+interactive environments to support learning at scale. We will also explore who is included in
+computer science learning, and how tools and technologies can be designed to promote equity.
+To guide our exploration we will read and discuss a variety of research papers including:
+● Foundational papers that provide tools to help us conceptualize learning in computer
+science and unpack the role of tools and technologies in the learning process.
+● Papers that provide examples of learning environments for teaching computer science
+concepts to show the breadth of design approaches that have been explored.
+Students will apply their knowledge of these papers through a quarter-long project on a topic of
+their choice, which must involve either the design of a computer science learning environment
+or the analysis of a computer science learning environment design. My hope is that students
+choose projects that are directly related to their main-line research, such that the project allows
+them to practice core research skills while furthering their own research agenda.
+
+I will start this syllabus by saying what this course is not. It does not cover everything that is and ever was
+computing education research (CER). That is too big. It is not The Best way to do research for Everyone. This
+course is a special topics course of my (Prof. Stephens-Martinez’s) first attempt at introducing CER to
+undergraduate students that already know the basics of computing and data analysis. It will focus on some
+breadth to give the students in this course an idea of what is in CER. It will also include some depth in what I
+know and through my lens of expertise within CER.
+The depth part of the course will be me teaching by modeling what depth does and does not look like. I chose th
+teaching process because through having one existential proof by example, I hope to show what deeply knowin
+topic can look like. However, this does include caveats because the expertise that I show is, as I said, an existen
+proof. It does not mean that every representation of expertise will look the same. Moreover, the topics I find
+interesting may not be of great interest to everyone in the class. Nor will how I see and view these topics be the
+same for another expert. So it is an example as best as I can make that is backed by my expertise.
+
+The course focuses on efforts to broaden participation in CS Education with a primary
+emphasis in higher education. The Tuesday homework assignments will involve readings to
+develop a breadth of understanding in this area. The Thursday homework assignments will build
+towards writing the majority of a formal, conference-style research paper that analyzes student
+survey data from the Computing Research Association’s multi-institutional survey data. The core
+work of this is conducting a literature review to motivate the study. The final product will include
+a full methods section articulating the planned analysis and code (in R, Stata, or SPSS) that
+would execute the planned analysis and creation of relevant tables and figures. Based upon the
+time constraints of the semester, the analysis of the data will extend beyond the end of the
+semester for those students who wish to continue working on the project. Members of the
+course are encouraged to work in teams on the paper and are encouraged to connect student
+survey data with institutional data. No background is required in computer science or statistics.
+
+This is a seminar for undergraduate teaching assistants. Its main goal is to
+help TAs improve their teaching skills by covering topics such as effective grading practices, how
+to hold effective office hours, online teaching and learning, and how to communicate well with
+students and other course staff. Its secondary goals are to help TAs improve their own
+communication skills, leadership skills, and knowledge of computer science as a field, and to
+provide TAs a chance to provide feedback to the department.
+
+Students will investigate topics central to computer science for the pk-12 learner. Computer science
+principles will be aligned to industry standards and current trends in the field. This course is designed for
+MAT, Computer Science students.
+
+This course teaches foundational intersections between computer science content
+knowledge and issues of diversity, equity, inclusion, and justice. Addresses these
+issues in the computer science classroom, as well as society more broadly, developing
+critical consciousness of computer science and society.
+
+The primary product of the class is a formal, conference-style research paper. The weekly
+homework assignments will build toward sections of a final paper. The final paper will involve
+revising these sections in accordance with the feedback on individual homework assignments
+and peer review. Each paper will aim to develop an insight into the teaching and learning of CS
+through analyzing the reasoning of one (or possibly two) students. While quantitative analyses
+can describe broad patterns, we will use qualitative analyses to focus on the nuance and details
+that quantitative analyses miss. The course introduces research in the area of conceptual change
+both within CS and beyond CS.
+
+Computer programming is an increasingly important skill for our students, yet it is not easily taught or learned. Why is learning
+to program so challenging? What pedagogical choices are known to help students? How do those interested in Computer Science
+Education (CSE) study and answer pressing research questions?
+
+This course surveys the key findings and research directions of CSE and application of those findings to secondary and post-
+secondary teaching contexts. We study the development of the field, current modes of inquiry, the role of technology in computing,
+
+student representation, research-based pedagogical approaches, and important open research questions. CSE is a new field and
+there is much work to be done; an important part of the course engages students in the design phases of a viable CSE study.
+
+Topics in the design and implementation of computer science courses through an equity and inclusion lens, with a particular emphasis
+on higher education. Focusing on applications of evidence-based best practices and choosing and adapting approaches based on
+concerns and characteristics specific to a given set of students. Includes basics of teaching and learning theory, pedagogical and
+assessment techniques, and equity, diversity, and justice concerns. Designed for aspiring teachers or those interested in practical issues
+of teaching computer science, with the goal of enabling students to create effective, equitable, and inclusive learning environments in
+their own classrooms.
+
+Develop educators’ knowledge base around aspects computing and technology in the world (e.g., digital
+devices, systems, networks; data & analysis) and their impacts (social, ethical, legal issues)) and
+contributions to society. Projects introduce freely available resources and lesson plans and/or other
+online interfaces to explore and model issues. Prior programming experience is not required.
+
+Examine issues in computing education (e.g., access and equity). Conceptual and skill
+development with core programming concepts (flow of control, abstraction, algorithms) using a
+novice programming framework. Computer science teaching and assessment methods for deep
+understanding.
+
+
