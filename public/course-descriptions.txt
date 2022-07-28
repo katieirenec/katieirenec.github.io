@@ -1,3 +1,5 @@
+course-descriptions
+
 Develop communication, leadership, and teaching skills while working with youth to broaden
 participation in computing. With training, student teams assist in after-school programs and K-12
 classes to engage youth in computational thinking. Focus on low-entry technologies for creating
