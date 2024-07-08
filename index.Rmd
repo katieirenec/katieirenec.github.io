@@ -8,10 +8,12 @@ links:
     url: "mailto:katcun@illinois.edu"
   - label: Scholar
     url: "https://scholar.google.com/citations?user=0qZz9bYAAAAJ"
-  - label: Twitter
-    url: "https://twitter.com/katieirenec"
-  - label: LinkedIn
-    url: "https://www.linkedin.com/in/katieirenec/"
+  - label: X
+    url: "https://x.com/katieirenec"
+  - label: Blog
+    url: "https://medium.com/@katieirenec"
+  - label: Lab
+    url: "http://trailslab.web.illinois.edu"
 
 output:
   postcards::trestles
@@ -37,7 +39,7 @@ M.S. in Computer Science (HCC) | August 2018
 
 **University of Arizona** | Tucson, AZ
 
-B.S. in Computer Science | May 2013
+B.S. in Computer Science & MCB | May 2013
 
 ## Experience
 
